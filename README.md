@@ -2,7 +2,7 @@
 
 👀 I’m interested in Immersive Media Design.
 
-🤓 I’m currently a Freelance Researcher.
+🤓 I’m currently a Researcher.
 
 🔮 I'm developing technologies for real time data processing, simulation and visualization.
 
@@ -14,6 +14,6 @@
 
 🦚 I love to patch in vvvv!
 
-❄️ I'm living in Europe
+❄️ I'm living in Europe.
 
 📫 How to reach me ... archibald.harry@protonmail.com
